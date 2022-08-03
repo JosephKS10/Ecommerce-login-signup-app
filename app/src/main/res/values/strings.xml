@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ecommerce login and signup</string>
+    <string name="signup"><b>Signup</b></string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="login"><b>Login</b></string>
+    <string name="don_t_have_an_account"><u>Don\'t have an account? <b>Signup</b></u></string>
+    <string name="have_an_account">Have an account? <b>Login</b></string>
+</resources>

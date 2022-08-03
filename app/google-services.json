@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813296076704",
+    "project_id": "e-commerce-signup-and-login",
+    "storage_bucket": "e-commerce-signup-and-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813296076704:android:59261b40bb622d78e746c5",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceloginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813296076704-48e43tgf66ehiaef8ln0ck40b0ddtguj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAit2t9VZfPxgD4gJSaFf2PXSETFcsGUAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813296076704-48e43tgf66ehiaef8ln0ck40b0ddtguj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
